@@ -7,6 +7,6 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: RUN Feed Generator
-        uses: FrankBoucher/podcast-generator@main
+        uses: FrankBoucher/podcast_generator@main
       
         
